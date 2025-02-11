@@ -1,13 +1,11 @@
 # ChillVibe – Elevate Your Style ✨
 
-ChillVibe is a modern fashion store that brings effortless style and bold aesthetics together. Designed with a sleek, user-friendly interface, our website ensures a seamless shopping experience.
+ChillVibe is a modern fashion store that brings effortless style and bold aesthetics together. Designed with a sleek, user-friendly interface.
 
 ## Features 🚀
 - 🔥 Trendy and stylish design
 - 📱 Fully responsive for all devices
 - 🎨 Dynamic animations & hover effects
-- 🛍️ Smooth shopping cart & wishlist
-- 🌙 Dark mode for a chic experience
 
 ## Tech Stack 🛠️
 - **Frontend:** React, Tailwind CSS
